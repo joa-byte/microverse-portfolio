@@ -36,3 +36,68 @@
   .headline {
     background: url(img/header-shapes\ mobile.png);
   }
+  
+.presentation {
+    margin: 28px;
+    width: 327px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  h1 {
+    margin-top: 204px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #172b4d;
+  }
+  
+  .personal-info {
+    margin: 28px;
+    margin-top: 12px;
+    width: 327px;
+    height: 146px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+  
+  h2 {
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
+  }
+  
+  .contact-me {
+    margin: 24px;
+    margin-top: 12px;
+  }
+  
+  h4 {
+    width: 117px;
+    height: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7f8cff;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .contact-icon {
+    margin-right: 20px;
+  }
+  
